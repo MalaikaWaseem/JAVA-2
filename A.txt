@@ -1,0 +1,10 @@
+class Expre
+{
+public static void main(string arg[])
+{
+a=6;
+b=7;
+c=a*b;
+system.out.println(c);
+}
+}

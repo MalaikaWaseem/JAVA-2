@@ -1,0 +1,9 @@
+Class For
+{
+public static void main(string arg[])
+{
+int n;
+for (n=20; n>0; n--)
+system.out.println(n);
+}
+}
